@@ -1,0 +1,32 @@
+
+
+/*
+
+PATTERN
+
+* * * * *
+
+* * * *
+
+* * *
+
+* *
+
+*
+
+
+
+*/
+
+var readlineSync=require("readline-sync");
+var userAns=readlineSync.question("enter the number you want to print the star pattern : ");
+for(var i=1;i<=userAns;i++){
+  var str="";
+  for(var j=userAns;j>=i;j--){
+    str+="*  "
+    
+  }
+  console.log(str);
+  console.log("")
+  
+}
