@@ -1,5 +1,5 @@
 # pattern_InJavaScript
-## Various pattern printing programs using node.js/javascript !!! 
+## Various pattern printing programs using node.js/javascript :100: !!! 
 ### Files are saved using `.txt` extension.
 use `.js `extension to run in node environment.
 
