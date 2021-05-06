@@ -1,0 +1,10 @@
+//We can use var instead of let.
+for( let i=1;i<=5;i++){
+  //declaration of the string.
+  let str="";
+  for(let j=1; j<=i ;j++){
+    str+="*"+" ";
+  }
+  console.log(str);
+
+}
